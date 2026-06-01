@@ -34,7 +34,6 @@ task2_scientific calculator/
 │
 ├── main.py
 ├── README.md
-└── requirements.txt
 ```
 
 ## How to Run
